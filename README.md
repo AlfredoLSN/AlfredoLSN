@@ -1,7 +1,7 @@
 ### Alfredo Lucas
 - 📜 Sistemas de Informação - UFJF
-- 🌱 Estudando Data Science / Machine Learning
-- 20 anos
+- 🌱 Estudando Desenvolvimento Back-End
+- 21 anos
 
 
 <div>
