@@ -1,7 +1,7 @@
 ### Alfredo Lucas
 - 📜 Sistemas de Informação - UFJF
 - 🌱 Estudando Desenvolvimento Back-End
-- 21 anos
+- 22 anos
 
 
 <div>
